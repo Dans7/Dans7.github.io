@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Gamers
+title: Danil Haq
 
 # Name pronunciation (optional)
-name_pronunciation: Danil Haq
+name_pronunciation: Gamers
 
 # Full name (for SEO)
 first_name: Danil
